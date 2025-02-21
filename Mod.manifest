@@ -1,0 +1,15 @@
+[package]
+
+id="hev.OCPVoyagerFix"
+name="OCP Voyager Fix"
+version="1.0.0"
+description="Flips the Voyager RSLS Fabrication Unit 180 degrees in the OCP to make it more reliable to get chunks in the processing bay"
+group="tweaks"
+github_homepage="https://github.com/rwqfsfasxc100/OCP-Voyager-Fix"
+github_releases="https://github.com/rwqfsfasxc100/OCP-Voyager-Fix/releases"
+discord_thread="https://discord.com/channels/426287934870781952/1331790979304263772"
+nexus_page=""
+donations_page=""
+wiki_page=""
+custom_link=""
+custom_link_name=""
